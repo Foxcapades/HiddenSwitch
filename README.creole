@@ -1,4 +1,4 @@
 == HiddenSwitch
 ----
 
-[[http://dev.bukkit.org/server-mods/hiddenswitch/|HiddenSwitch]] is a plugin for [[https://github.com/Bukkit/CraftBukkit|Bukkit]] Minecraft servers that allows players to set up hidden levers and buttons, and activate them by interacting with 'normal' blocks.
+[[https://dev.bukkit.org/projects/hiddenswitch|HiddenSwitch]] is a plugin for [[https://github.com/Bukkit/CraftBukkit|Bukkit]] Minecraft servers that allows players to set up hidden levers and buttons, and activate them by interacting with 'normal' blocks.
